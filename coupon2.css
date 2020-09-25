@@ -1,0 +1,91 @@
+.ad1{
+	margin: 0px auto;
+	display: block;
+	width: 30%;
+}
+
+nav{
+	background: #3E5263;
+}
+
+nav .btn{
+	border: 0px solid white;
+}
+
+.top_cards{
+	margin-top: 3rem;
+	border: 0px solid white;
+	width: 15rem;
+	font-size: 0.8em;
+}
+
+.top_cards img{
+	width: 100%;
+	height: 10rem;
+}
+
+.main_cards{
+	border: 1px solid lightgrey;
+	border-radius: 0.5rem;
+	padding: 1rem 2rem;
+	margin: 3rem 0;
+	width: 48rem;
+	background: white;
+}
+
+.main_cards img{
+	width: 14rem;
+}
+
+.sender img{
+	width: 3rem;
+	height: 3rem;
+	border-radius: 3rem;
+	margin: 1rem;
+}
+
+.sender{
+	font-size: 0.9em;
+}
+
+.icons i{
+	margin: 2rem 0.1rem;
+	color: grey;
+}
+
+.cards{
+	padding-left: 8rem;
+}
+
+.ads{
+	padding-left: 2rem;
+	margin-top: 4rem;
+}
+
+h3{
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 8px;
+}
+
+.ad_cards{
+	width: 15rem;
+	margin-top: 1rem;
+	background: white;
+	padding: 0.5rem;
+	border: 1px solid lightgrey;
+	border-radius: 0.5rem;
+}
+
+.ad_cards img{
+	width: 5rem;
+	height: 5rem;
+	padding: 0rem auto; 
+}
+
+.dropdown-item{
+	text-transform: uppercase;
+}
+
+.top_cards:hover, .main_cards:hover, .ad_cards:hover{
+	background: url(https://www.xmple.com/wallpaper/grey-white-gradient-linear-1920x1080-c2-808080-ffffff-a-240-f-14.svg);
+}
